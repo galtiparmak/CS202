@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1646686897 source:c:\users\gekol\desktop\dersler\cs201\codeblock\cs202_hw1\sorting.cpp
+	"sorting.h"
+
+1646686908 c:\users\gekol\desktop\dersler\cs201\codeblock\cs202_hw1\sorting.h
+	<chrono>
+	<iomanip>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1646686923 source:c:\users\gekol\desktop\dersler\cs201\codeblock\cs202_hw1\main.cpp
+	<iostream>
+	"sorting.h"
+
